@@ -1,17 +1,17 @@
 # Site settings
-title: Lokmont
-description: Lokmont is a responsive simple theme for Jekyll.
+title: Bing Han
+description: Bing Han is a responsive simple theme for Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Bing Han-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: 112.jpg
-hero-title: Welcome to Lokmont
+hero-title: Welcome to Bing Han
 hero-description: A Responsive Jekyll Blog Theme. Theme suitable for any kind of creators.
 
 # Author - Creator
 author-name: Ben Campbell
-author-image: 10.jpg
+author-image: 10.jpg·
 about-author: My name is Ben Campbell. I'm an actor and a musician. Retro wolf banjo succulen tsgoch ujang tumeric hammock offal.
 author-email: help.example@gmail.com
 author-twitter: https://twitter.com/
